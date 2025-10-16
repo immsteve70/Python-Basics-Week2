@@ -1,4 +1,0 @@
-Name: Emmanuel
-Age: 20
-Hobby: Coding
-Favourite food: Pizza
